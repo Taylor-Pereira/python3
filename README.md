@@ -1,2 +1,2 @@
-# python3
-python3
+# Curso python 3
+Introdução sobre windows 11
